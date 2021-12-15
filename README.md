@@ -1,6 +1,10 @@
-# pashko-site
+# Nuxt-blog
 
-> My tiptop Nuxt.js project
+Mini-blog created with Element-UI and MongoDB.
+
+### [Demo](https://nuxt-blog-practice.herokuapp.com/)
+
+<br>
 
 ## Build Setup
 
